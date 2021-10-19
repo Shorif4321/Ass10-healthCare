@@ -11,7 +11,7 @@ const AboutUs = () => {
                 </Col>
 
                 <Col >
-                    <h1 className='text-warning'>Newborn Items You Don't Actually Need to Buy</h1>
+                    <h3 className='text-secondary'>Newborn Items You Don't Actually Need to Buy</h3>
                     <p>We get it: Buying all the baby gear can help you feel more in control. But you can save a lot of cash—and still get by in those early months—without purchasing everything you think you need to.</p>
 
                 </Col>

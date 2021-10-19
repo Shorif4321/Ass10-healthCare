@@ -4,10 +4,11 @@ import { Col, Row } from 'react-bootstrap';
 const Help = () => {
     return (
         <div className="p-4">
+            <h1 className='text-center'>Geting Helping Ruls</h1>
             <Row xs={1} md={2} className="g-4 p-4 ">
 
                 <Col >
-                    <h1 className='text-warning'>How can we Help you?</h1>
+                    <h3 className='text-secondary'>How can we Help you?</h3>
                     <p>Credibly innovate granular internal or “organic“ sources whereas high standards in web-readiness. Energistically scale future-proof core competencies vis-a-vis impactful experiences. Dramatically synthesize integrated schemas with optimal networks.</p>
 
                 </Col>
